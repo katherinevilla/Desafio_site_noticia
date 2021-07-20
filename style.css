@@ -1,0 +1,107 @@
+body{
+    font-family: "open sans",sans-serif;
+    front-weight: 400;
+    font-size: 12px
+  }
+  .menu__intem{
+    background-color: #2280A6;
+  }
+  p{
+    text-transform: uppercase
+      color: #ffff;
+    opacity: 0.7;
+  }
+  .menu__item: hover {
+    opacity: 1;
+      
+    } 
+  .destaque__titulo{
+    font-family: "pt sans narrow"
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1px
+    color: #ffffff
+  }
+  .card__titulo{
+    font-family: " pt sans narrow";
+    font-size: 26px;
+    font-weigh: 700;
+    line-height: 33px;
+    color: #3e4248;
+  }
+  .card__titulo: hover {
+    color: #229fd3;
+  }
+  .card__data{
+    font-size: 12px;
+    color: #999999
+  }
+  .card__autor{
+    color: #229fd3;
+    text-decoration: underline;
+  }
+  .card__descricao{
+   font-size: 14px;
+   line-height: 16px;
+    color: #666666;
+  }
+  .breadcrumb{
+    color: #888888
+  }
+  .breadcrumb__home, breadcrumb__categoria{
+    color: #229fd3;
+    text-decoration: none;
+  }
+  .noticia__titulo{
+    font-family: "pt sans narrow",sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 62px;
+    color: #3e4248 
+  }
+  .noticia__resumo {
+    font-size: 17px;
+    line-height: 20px;
+    color: #777777;  
+  }
+  .noticia__corpo{
+    font-size: 17px;
+    line-height:28px;
+    color: #555555;
+  }
+  .noticia__linkcorpo{
+    color: #229fd3;
+    text-decoration: underline;
+  }
+  .noticia__linkcorpo: hover {
+    text-decoration: underline;
+  }
+  .noticia__subtitulo{
+    font-size: 25px;
+    color: #3e4248;
+    }
+  .noticia__fonte{
+    fonte-size: 17px;
+    line-height: 28px;
+    color: #555555;
+    font-style: italico;  
+  }
+  .noticia__fontelink: hover{
+    text-decoration: underline;
+  }
+  .rodape{
+    background-color: #137399;
+  }
+  .rodape__link{
+    fonte-size: 13px;
+    color: #ffffff;
+    opacity: .7;
+    text-decoration: none;
+  }
+  .rodape__link: hover {
+    opacity: 1;
+  }
+  .rodape__copyright{
+    color:#87c1d9;
+    line-height: 12px;
+  }
